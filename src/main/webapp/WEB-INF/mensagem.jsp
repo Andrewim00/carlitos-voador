@@ -10,7 +10,7 @@
 
     
     <body>
-        <h1>Olha a Mensagiu fiui: ${texto}</h1>
+        <h1>Olha a Mensagem fiui: ${texto}</h1>
     </body>
 
 
